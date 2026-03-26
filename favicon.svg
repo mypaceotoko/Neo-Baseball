@@ -1,10 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <circle cx="32" cy="32" r="30" fill="#f5f0e8" stroke="#333" stroke-width="2"/>
+  <!-- Baseball stitches -->
   <path d="M 20 18 Q 28 26 20 38 Q 14 32 14 26 Q 14 20 20 18 Z" fill="none" stroke="#cc2222" stroke-width="2"/>
   <path d="M 44 18 Q 36 26 44 38 Q 50 32 50 26 Q 50 20 44 18 Z" fill="none" stroke="#cc2222" stroke-width="2"/>
+  <!-- Stitch lines left -->
   <line x1="18" y1="22" x2="24" y2="24" stroke="#cc2222" stroke-width="1.5"/>
   <line x1="16" y1="27" x2="22" y2="28" stroke="#cc2222" stroke-width="1.5"/>
   <line x1="17" y1="33" x2="23" y2="31" stroke="#cc2222" stroke-width="1.5"/>
+  <!-- Stitch lines right -->
   <line x1="46" y1="22" x2="40" y2="24" stroke="#cc2222" stroke-width="1.5"/>
   <line x1="48" y1="27" x2="42" y2="28" stroke="#cc2222" stroke-width="1.5"/>
   <line x1="47" y1="33" x2="41" y2="31" stroke="#cc2222" stroke-width="1.5"/>
